@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2744f267-97be-4fc7-96a9-47beea5aaaa3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/almundo/Employer.class" afterPath="$PROJECT_DIR$/target/classes/com/almundo/Employer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/callCenter.iml" afterPath="$PROJECT_DIR$/callCenter.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/almundo/Employer.java" afterPath="$PROJECT_DIR$/src/main/java/com/almundo/Employer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.almundo.DispatcherTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.almundo.DispatcherTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.almundo.DispatcherTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.almundo.DispatcherTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="diagram.uml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="diagram.uml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/diagram.uml">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
@@ -71,11 +66,24 @@
               </nodes>
               <notes />
               <edges />
-              <settings layout="Hierarchic Group" zoom="1.0" x="94.0" y="89.0" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-123.0" y="111.5" />
               <SelectedNodes />
               <Categories />
               <SCOPE>All</SCOPE>
               <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="345">
+                <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -101,8 +109,8 @@
       <file leaf-file-name="Employer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/almundo/Employer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="52" column="36" lean-forward="false" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+            <state relative-caret-position="210">
+              <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="27" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -122,8 +130,8 @@
       <file leaf-file-name="Call.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/almundo/Call.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-504">
-              <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+            <state relative-caret-position="255">
+              <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="40" />
               <folding>
                 <element signature="e#0#1827#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -143,8 +151,8 @@
       <file leaf-file-name="Dispatcher.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/almundo/Dispatcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="83" column="9" lean-forward="false" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
+            <state relative-caret-position="137">
+              <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="45" />
               <folding>
                 <element signature="e#0#3643#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -188,7 +196,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ponerLlamadaEnEspera</find>
       <find>hayLineasDisponibles</find>
       <find>takeCall</find>
       <find>hayEmpleadosDisponibles</find>
@@ -214,10 +221,11 @@
       <find>agrega</find>
       <find>agregarEmpleado</find>
       <find>estuvo</find>
-      <find>estuvoEnEspera</find>
       <find>despacharLlamadas</find>
-      <find>estu</find>
+      <find>estuvoEnEspera</find>
       <find>ocuparse</find>
+      <find>estu</find>
+      <find>employers</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src</dir>
@@ -244,6 +252,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/almundo/DispatcherTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/almundo/Dispatcher.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/almundo/Employer.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -315,6 +324,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="callCenter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="callCenter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="almundo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -763,12 +802,12 @@
       <workItem from="1509071597197" duration="1007000" />
       <workItem from="1509491772508" duration="6419000" />
       <workItem from="1509550064307" duration="500000" />
-      <workItem from="1509583811234" duration="13132000" />
+      <workItem from="1509583811234" duration="16927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21058000" />
+    <option name="totallyTimeSpent" value="24853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -931,54 +970,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/almundo/Call.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-504">
-          <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#1827#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#829#830#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-            <element signature="e#997#998#0" expanded="true" />
-            <element signature="e#1028#1029#0" expanded="true" />
-            <element signature="e#1056#1057#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/almundo/DispatcherTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="954">
           <caret line="87" column="48" lean-forward="false" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/almundo/Dispatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="83" column="9" lean-forward="false" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#3643#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#1250#1251#0" expanded="true" />
-            <element signature="e#1313#1314#0" expanded="true" />
-            <element signature="e#1353#1354#0" expanded="true" />
-            <element signature="e#1410#1411#0" expanded="true" />
-            <element signature="e#2196#2197#0" expanded="true" />
-            <element signature="e#2268#2269#0" expanded="true" />
-            <element signature="e#3440#3441#0" expanded="true" />
-            <element signature="e#3476#3477#0" expanded="true" />
-            <element signature="e#3525#3526#0" expanded="true" />
-            <element signature="e#3560#3561#0" expanded="true" />
-            <element signature="e#3603#3604#0" expanded="true" />
-            <element signature="e#3635#3636#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1039,25 +1036,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/almundo/Employer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="52" column="36" lean-forward="false" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
-            <element signature="e#883#884#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/com.almundo">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1108,11 +1086,83 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="94.0" y="89.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-123.0" y="111.5" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/almundo/Call.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#1827#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+            <element signature="e#1028#1029#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/almundo/Employer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/almundo/Dispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#3643#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1250#1251#0" expanded="true" />
+            <element signature="e#1313#1314#0" expanded="true" />
+            <element signature="e#1353#1354#0" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#2196#2197#0" expanded="true" />
+            <element signature="e#2268#2269#0" expanded="true" />
+            <element signature="e#3440#3441#0" expanded="true" />
+            <element signature="e#3476#3477#0" expanded="true" />
+            <element signature="e#3525#3526#0" expanded="true" />
+            <element signature="e#3560#3561#0" expanded="true" />
+            <element signature="e#3603#3604#0" expanded="true" />
+            <element signature="e#3635#3636#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
