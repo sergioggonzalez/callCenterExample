@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.almundo</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">com.almundo.DispatcherTest</node>
+    <node x="0.0" y="74.0">com.almundo.Dispatcher</node>
+    <node x="134.0" y="148.0">com.almundo.Call</node>
+    <node x="0.0" y="148.0">com.almundo.Employer</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="94.0" y="88.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

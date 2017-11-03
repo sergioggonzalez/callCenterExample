@@ -43,7 +43,7 @@ public class Employer {
     }
 
     public void take(Call call) {
-        logger.log(Level.INFO, this.id + " Teake call " + call.getId());
+        logger.log(Level.INFO, this.id + " Take call " + call.getId());
         call.takeCallBy(this);
         this.state = State.AVAILABLE;
         logger.log(Level.INFO, this.id + " finish call " + call.getId());
